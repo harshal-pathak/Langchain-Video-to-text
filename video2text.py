@@ -11,6 +11,7 @@ Original file is located at
 !pip install -U openai-whisper
 !pip install langchain
 !pip install pytube
+!pip install langchain==0.0.135
 
 import pytube as pt
 yt=pt.YouTube("https://www.youtube.com/watch?v=hTfTsImtRxA")
