@@ -1,4 +1,4 @@
-### Langchain-Video-to-text
+## Langchain-Video-to-text
 ## a simple way to get a Text Summary of Any Video or Any Voice without even watching or hearing it! We do this by writing a Python code using the LangChain framework.Specifically, we first transcribe the input video using OpenAI's Whisper model to get a text out of the video. We then apply a text summarizer model like OpenAI's Davinci model to summarize the generated text or transcript. To interface with the Davinci model, we use LangChain to create a text summarizer chain. OpenAI's Whisper supports more than 99 different languages!
 
 
